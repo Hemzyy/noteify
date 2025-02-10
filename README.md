@@ -21,6 +21,7 @@ Noteify is a Python script that connects to **Spotify** and **Instagram** APIs t
 ```bash
 git clone https://github.com/Hemzyy/noteify.git
 cd noteify
+```
 
 ### 2️⃣ Install dependencies (imports)
 
